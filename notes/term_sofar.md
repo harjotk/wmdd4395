@@ -68,4 +68,5 @@ cgi is a method by which scripts residing on a hardware server can communicate w
 
 ###WSGI  
 Web Server Gateway Interface  
-WSGI is an interface specification that allows for a python script to communicate with a web server
+WSGI is an interface specification that allows for a python script to communicate with a web server.  
+[learn more](http://wsgi.readthedocs.io/en/latest/index.html)
